@@ -1,0 +1,6 @@
+name: Bar Code Drupal test
+type: module
+description: Bar Code for url Drupal test.
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
